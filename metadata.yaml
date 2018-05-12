@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '5147'
     url: http://www.gutenberg.org/2009/agents/5147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34648#Les-terres-d-or
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-12-13'
 gutenberg_type: Text
